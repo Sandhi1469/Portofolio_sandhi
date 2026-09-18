@@ -8,6 +8,8 @@ Website ini menampilkan informasi singkat mengenai profil, riwayat pendidikan, p
 
 Website dapat diakses melalui GitHub Pages:
 
+https://sandhi1469.github.io/Portofolio_sandhi/
+
 
 ## Fitur
 
