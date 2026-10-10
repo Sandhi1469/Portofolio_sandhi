@@ -18,6 +18,7 @@ https://sandhi1469.github.io/Portofolio_sandhi/
 - Navigasi responsif untuk perangkat mobile
 - Riwayat pendidikan dalam bentuk timeline
 - Daftar proyek yang pernah dikerjakan
+- Tautan menuju website marketplace BroilerHub
 - Tautan menuju desain Figma
 - Tautan menuju aplikasi kalkulator FCR dan IP kandang ayam
 - Tombol telepon dan WhatsApp
